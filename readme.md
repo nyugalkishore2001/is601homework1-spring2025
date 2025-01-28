@@ -1,2 +1,2 @@
 # Hello Professor !!!
-## Merging in Git using PR's
+## Merging in Git using Pull requests !
